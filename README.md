@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del curso de prueba 
+Este es un repositorio de prueba y de como clonarlo.
